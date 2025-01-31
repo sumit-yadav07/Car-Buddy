@@ -42,7 +42,7 @@ This Car Management System allows users to sign up, log in, add, view, search, u
    npm start
    ```
 
-## 📡 API Endpoints
+## 📡 API Endpoints (Work in progress)
 ### 🔑 Authentication
 - **`POST /api/users`** - Register a new user.
 - **`POST /api/auth/login`** - Log in an existing user.
