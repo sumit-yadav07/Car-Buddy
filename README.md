@@ -3,6 +3,8 @@
 ## 📌 Overview
 This Car Management System allows users to sign up, log in, add, view, search, update, and delete cars. Each car entry includes a title, description, tags, and up to 10 images.
 
+Live Demo : https://car-buddy-git-main-sumits-projects-40a32790.vercel.app/
+(demo email : example@gmail.com, pass : abc123 ) or create your own !
 ## 🛠 Tech Stack
 - **Frontend:** React.js
 - **Backend:** Supabase (Auth, Database, and Edge Functions)
